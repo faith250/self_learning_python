@@ -1,0 +1,1 @@
+#list.append(x) add an item to the end of the list 
